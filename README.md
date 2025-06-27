@@ -11,7 +11,7 @@ Mi misión es convertir el ruido digital en una partitura de patrones que permit
 
 ## 🛠 Metodología Aplicada
 
-Para resolver este reto, se implementó un *pipeline integral de Machine Learning*. Los pasos clave fueron:
+
 
 ### 1. 📚 Carga y Unificación de Datos
 
