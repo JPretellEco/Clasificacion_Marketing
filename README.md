@@ -87,4 +87,3 @@ Lo técnico se fundió con lo humano: segmentar usuarios no es dividir, sino ent
 
 ---
 
-¿Deseas que estructure este texto como un README.md completo para subir a GitHub? ¿O necesitas también el pyproject.toml final con las dependencias ajustadas a tu entorno?
